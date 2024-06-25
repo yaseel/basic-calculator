@@ -1,0 +1,33 @@
+body {
+  background-color: black;
+}
+
+p {
+  font-family: Arial;
+  font-size: 32px;
+  color: white;
+  margin-left: 10px;
+}
+
+button {
+  height: 45px;
+  width: 45px;
+  border-radius: 30px;
+  border: none;
+  color: white;
+  background-color: #363636;
+  margin-right: 5px;
+  font-size: 19px;
+}
+
+.clear-button {
+  font-size: 13px;
+}
+
+.operator-button {
+  background-color: orange;
+}
+
+div {
+  margin-bottom: 10px;
+}
